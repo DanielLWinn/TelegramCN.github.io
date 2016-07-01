@@ -1,9 +1,0 @@
-[main]
-host = https://www.transifex.com
-
-[telegram-web.en-usjson]
-file_filter = app/js/locales/<lang>.json
-source_file = app/js/locales/zh_CN.json
-source_lang = zh_CN
-type = KEYVALUEJSON
-lang_map = zh:zh-cn
